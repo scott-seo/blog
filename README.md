@@ -1,4 +1,4 @@
-# Personal blog about technology powered by GitHub page and Hugo
+# My Technology Blog Site
 
 ## Requirement for blogging site
 
